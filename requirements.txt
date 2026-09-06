@@ -1,0 +1,42 @@
+# ============================================================
+# Climate-Disease-Africa
+# Python Dependencies
+# Install with: pip install -r requirements.txt
+# ============================================================
+
+# Core Data Science
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+imbalanced-learn>=0.11.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.17.0
+
+# Geospatial
+geopandas>=0.14.0
+folium>=0.14.0
+shapely>=2.0.0
+
+# Climate / Array Data
+xarray>=2023.6.0
+
+# Dashboard
+streamlit>=1.28.0
+streamlit-folium>=0.15.0
+
+# Notebooks
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Utilities
+requests>=2.31.0
+tqdm>=4.66.0
+joblib>=1.3.0
+statsmodels>=0.14.0
