@@ -13,13 +13,13 @@
 **Predicting Malaria, Cholera, and Dengue outbreak risk across Africa
 using satellite climate data and machine learning.**
 
-[🚀 Live Dashboard](#) · [📊 View Notebooks](#notebooks) · [📖 Methodology](#methodology) · [🐛 Report Bug](#) · [✨ Request Feature](#)
+[ Live Dashboard](#) · [ View Notebooks](#notebooks) · [ Methodology](#methodology) · [ Report Bug](#) · [ Request Feature](#
 
 </div>
 
 ---
 
-## 📸 Project Screenshots
+##  Project Screenshots
 
 <div align="center">
 
@@ -53,7 +53,7 @@ This project uses machine learning to predict outbreak risk from:
 
 ---
 
-## 💡 Motivation
+##  Motivation
 
 Climate change is not just an environmental problem — it is a **public health emergency.**
 
@@ -69,7 +69,7 @@ This project was built to demonstrate that **data science can save lives** by gi
 
 ---
 
-## 📦 Dataset Description
+##  Dataset Description
 
 | Dataset | Source | Description |
 |---|---|---|
@@ -79,7 +79,7 @@ This project was built to demonstrate that **data science can save lives** by gi
 | Population Data | WorldBank | Country population for incidence calculation |
 | Elevation Data | SRTM | Altitude affects disease transmission |
 
-> 🔄 **Note:** This project includes a realistic synthetic data generator
+>  **Note:** This project includes a realistic synthetic data generator
 > when direct API access is unavailable.
 
 ### Key Variables
@@ -99,7 +99,7 @@ This project was built to demonstrate that **data science can save lives** by gi
 
 ---
 
-## 🛠️ Installation Guide
+##  Installation Guide
 
 ### Step 1: Clone the Repository
 ```bash
@@ -146,16 +146,16 @@ Climate-Disease-Africa/
 │   └── 📓 03_Model_Training.ipynb
 │
 ├── 📂 src/
-│   ├── 🐍 data_loader.py          # Data generation and loading
-│   ├── 🐍 preprocessing.py        # Cleaning and feature engineering
-│   ├── 🐍 visualization.py        # All plots and maps
-│   ├── 🐍 model.py                # ML model training
-│   └── 🐍 prediction.py           # Risk forecasting
+│   ├──  data_loader.py          # Data generation and loading
+│   ├──  preprocessing.py        # Cleaning and feature engineering
+│   ├──  visualization.py        # All plots and maps
+│   ├──  model.py                # ML model training
+│   └──  prediction.py           # Risk forecasting
 │
 ├── 📂 images/                     # Output visualizations
 ├── 📂 reports/                    # Analysis reports
-├── 🐍 app.py                      # Streamlit dashboard
-├── 🐍 run_pipeline.py             # Master pipeline script
+├──  app.py                      # Streamlit dashboard
+├──  run_pipeline.py             # Master pipeline script
 ├── 📄 requirements.txt
 ├── 📄 README.md
 ├── 📄 LICENSE
@@ -164,7 +164,7 @@ Climate-Disease-Africa/
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 ### 1. Data Collection
 - Synthetic data modelled on WHO and Africa CDC outbreak records
@@ -196,7 +196,7 @@ Climate-Disease-Africa/
 
 ---
 
-## 📊 Results
+##  Results
 
 ### Model Performance
 
@@ -216,7 +216,7 @@ Climate-Disease-Africa/
 
 ---
 
-## 🚀 Future Work
+##  Future Work
 
 - [ ] Integrate real-time WHO disease surveillance API
 - [ ] Add sub-national level predictions (district/county)
@@ -227,7 +227,7 @@ Climate-Disease-Africa/
 
 ---
 
-## 📚 References
+##  References
 
 1. Africa CDC (2025). *Annual Disease Outbreak Report 2024.*
 2. WHO (2024). *World Malaria Report 2024.* World Health Organization.
@@ -237,13 +237,13 @@ Climate-Disease-Africa/
 
 ---
 
-## 📄 License
+##  License
 
 MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 <div align="center">
 
@@ -267,6 +267,6 @@ data science to Africa's most pressing public health challenges.*
 
 **🌍 Using Data Science to Protect African Lives**
 
-Made with ❤️ and Python 🐍
+Made with ❤️ and Python 
 
 </div>
